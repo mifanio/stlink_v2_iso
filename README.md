@@ -33,3 +33,6 @@ Safe debugging of STM32 microcontrollers
 Use in circuits with different voltage domains
 Protected connection to industrial devices
 Powering and programming small target boards through a single USB Type-C cable
+
+📧 Contact
+For inquiries and collaboration: xwmawm@gmail.com
